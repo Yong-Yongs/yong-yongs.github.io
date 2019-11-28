@@ -15,11 +15,14 @@ tags:
 
 명령어를 먼저 볼까요???
 
+```junos
 set vlans [vlan_name] vlan-id [vlan_ id]
+```
 
+```junos
 set vlans v100 vlan-id 100
 set vlans v200 vlan-id 200
-
+```
 간단하네요!!
 
 그럼 장비에서 설정한 다음 Config를 확인해 보겠습니다.
