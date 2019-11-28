@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Yong Yong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/YY.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Network Engineer"
   location         : "Somewhere"
   email            :
