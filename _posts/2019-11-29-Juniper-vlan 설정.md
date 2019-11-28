@@ -19,7 +19,7 @@ tags:
 set vlans [vlan_name] vlan-id [vlan_ id]
 ```
 
-```junos
+```
 set vlans v100 vlan-id 100
 set vlans v200 vlan-id 200
 ```
