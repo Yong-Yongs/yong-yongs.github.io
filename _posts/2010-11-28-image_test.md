@@ -13,3 +13,10 @@ gallery:
     title: "Image 1 title caption"
 ---
 test
+```yaml
+gallery:
+  - url: /assets/images/test.jpg
+    image_path: /assets/images/test.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+```
