@@ -15,9 +15,15 @@ tags:
 
 명령어를 먼저 볼까요???
 
+우선 형식은 다음과 같습니다.
+
 ```junos
 set vlans [vlan_name] vlan-id [vlan_ id]
 ```
+
+```[vlan_name]```는 설정하고자 하는 vlan
+```[vlan_id]```는 설장하고자 하는 vlan-id  
+
 
 ```
 set vlans v100 vlan-id 100
