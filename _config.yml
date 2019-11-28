@@ -110,7 +110,7 @@ author:
   name             : "Yong Yong"
   avatar           : "/assets/images/Yong.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Network Engineer"
-  location         : "Somewhere"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
