@@ -13,4 +13,5 @@ gallery:
     title: "Image 1 title caption"
 ---
 test
-[![foo](/assets/images/test.jpg)]
+
+![foo](/assets/images/test.jpg)
