@@ -17,7 +17,7 @@ tags:
 
 우선 형식은 다음과 같습니다.
 
-```junos
+```
 set vlans [vlan_name] vlan-id [vlan_ id]
 ```
 
