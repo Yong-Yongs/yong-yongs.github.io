@@ -33,4 +33,15 @@ Eve 홈페이지에 설치 동영상이 있지만 참고 하실분들은 참고 
 (제가 처음에 설치할땐 이런것도 없었는데 ㅠ_ㅠ)
 
 
-[![예제](http://img.youtube.com/vi/nia7BEQEOHk/0.jpg)](https://youtu.be/nia7BEQEOHk?t=0s) 
+[![Eve-ng](http://img.youtube.com/vi/nia7BEQEOHk/0.jpg)](https://youtu.be/nia7BEQEOHk?t=0s) 
+
+우선 www.eve-ng.com 으로 접속하여 Community version을 Download를 하시면 됩니다.
+
+예전에는 version 구분이 없었는데 얼마전에 Professional version이 생겼습니다.
+
+느끼셨겠지만 Community version은 무료 Pro version은 유료입니다!!
+
+Community  버전으로도 충분히 공부할수 있으니 걱정 안하셔도 됩니다.
+
+<img src="https://github.com/Yong-Yongs/yong-yongs.github.io/blob/master/assets/images/20190106-Eve-ng-Install/00.%20Eve_Community.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
