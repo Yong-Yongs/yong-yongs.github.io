@@ -45,4 +45,4 @@ Community  버전으로도 충분히 공부할수 있으니 걱정 안하셔도 
 
 <img src="https://github.com/Yong-Yongs/yong-yongs.github.io/blob/master/assets/images/20190106-Eve-ng-Install/00.%20Eve_Community.png" width="350px" height="250px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
-![Eve-ng Community](/files/graphql-pipeline.png)
+![Eve-ng Community](/files/00.Eve_Community.png)
