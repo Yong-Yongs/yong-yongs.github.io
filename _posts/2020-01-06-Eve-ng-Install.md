@@ -33,11 +33,4 @@ Eve 홈페이지에 설치 동영상이 있지만 참고 하실분들은 참고 
 (제가 처음에 설치할땐 이런것도 없었는데 ㅠ_ㅠ)
 
 
-<iframe width="640" height="360" src="https://youtu.be/nia7BEQEOHk" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-
-
-
-https://youtu.be/nia7BEQEOHk
-
-
-![Capsule - Another World](https://www.youtube.com/watch?v=nia7BEQEOHk)
+[![예제](http://img.youtube.com/vi/RlQEoJaLQRA/0.jpg)](https://youtu.be/RlQEoJaLQRA?t=0s) 
