@@ -1,5 +1,7 @@
 ---
 title: "LAB with Eve-ng - Install"
+search: true
+excerpt: Eve-ng 설치 하기
 categories:
   - Eve-ng
 tags:
