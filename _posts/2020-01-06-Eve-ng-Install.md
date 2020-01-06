@@ -43,13 +43,13 @@ Eve 홈페이지에 설치 동영상이 있지만 참고 하실분들은 참고 
 
 Community  버전으로도 충분히 공부할수 있으니 걱정 안하셔도 됩니다.
 
-![Eve-ng Community](/files/00.Eve_Community.png)
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/1.png)
 
 x86서버에 바로 설치도 가능하지만 OVA로 설치하는것이 편하기때문에 OVA로 다운 받습니다.
 
 다운로드가 완료되면 VMware Workstation으로 ova를 설치합니다.
 
-![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/vmware_ova.png)
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/2.png)
 
 다운 받은 OVA file을 실행하시면 아래와 같이 import화면이 나옵니다.
 
@@ -61,4 +61,4 @@ Import 후 가디리시고 VM 전원을 켜시면 됩니다.
 
 Network 부분도 NAT로 변경하고 VM을 켜겠습니다.
 
-![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/5.png)
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/3.png)
