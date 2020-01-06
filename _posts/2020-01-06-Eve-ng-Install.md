@@ -43,5 +43,5 @@ Eve 홈페이지에 설치 동영상이 있지만 참고 하실분들은 참고 
 
 Community  버전으로도 충분히 공부할수 있으니 걱정 안하셔도 됩니다.
 
-<img src="https://github.com/Yong-Yongs/yong-yongs.github.io/blob/master/assets/images/20190106-Eve-ng-Install/00.%20Eve_Community.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://github.com/Yong-Yongs/yong-yongs.github.io/blob/master/assets/images/20190106-Eve-ng-Install/00.%20Eve_Community.png" width="500px" height="350px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
