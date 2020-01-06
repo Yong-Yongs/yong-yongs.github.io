@@ -57,8 +57,28 @@ Import 후 가디리시고 VM 전원을 켜시면 됩니다.
 
 켜시기전에 VT-X부분에 체크가 되었는지 확인을 해야합니다.
 
-혹시 체크가 안되어 있으면 NVF가 동작을 안합니다.
+혹시 체크가 안되어 있으면 가상머신이 동작을 안합니다.
 
 Network 부분도 NAT로 변경하고 VM을 켜겠습니다.
 
 ![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/3.png)
+
+Root password 입력 하는 부분입니다.
+
+나중에 window client package 설치 후 구동을 편하게 하시려면 그냥 넘어가시면 됩니다
+
+(Default password : eve)
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/4.png)
+
+호스트 네임도 그대로 하겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/5.png)
+
+DNS도 넘어 가겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/6.png)
+
+고정 IP를 사용하셔도 되지만 저는 DHCP로 설정하겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/7.png)
