@@ -82,3 +82,68 @@ DNS도 넘어 가겠습니다.
 고정 IP를 사용하셔도 되지만 저는 DHCP로 설정하겠습니다.
 
 ![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/7.png)
+
+NTP도 그냥 넘어 가겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/8.png)
+
+Proxy 또한 그냥 넘어가겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/9.png)
+
+여기까지 다 완료가 되었으면 이제 설치가 완료 된겁니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/10.png)
+
+이쁘네요 🙂
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/11.png)
+
+설치가 완료되면 위에 보이는 IP로 접속하시면 해볼까요???
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/12.png)
+
+접속하면 화면처럼 로그인 창이 나옵니다.
+
+기본 계정과 비번은 admin // eve입니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/13.png)
+
+실행은 했는데 아무것도 없네요???
+
+우선 Lab을 만들어 보겠습니다.
+
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/14.png)
+
+폴더 이름을 정하고 Add folder를 클릭하시면 폴더가 생성이 됩니다.
+
+여러명이 Eve를 공유하면서 사용한다고 했을때 폴더를 사용자명으로 구분하셔도 됩니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/15.png)
+
+폴더에 들어온다음 Lab을 만들어 보겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/16.png)
+
+Lab 명을 정해주시고 Save 클릭
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/17.png)
+
+Lab이 만들어 지면 위 화면과 같이 화면이 나옵니다.
+
+저희는 저기서 Add an object를 선택하겠습니다.
+
+좌측 메뉴에서 선택을 해도 되고 아래 화면 같이 마우스 우클릭 후 Node를  선택 하겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/18.png)
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/19.png)
+
+오~ 먼가 많은 Vendor의 NFV가 있네요
+
+아쉽지만 실행 할 Image가 등록이 되어있지 않아서 모든 Image가 비 활성화 상태입니다.
+
+활성화가 되면 파란색으로 표시가 됩니다.
+
+여기까지가 기본적인 Eve 설치 과정입니다. ^^
