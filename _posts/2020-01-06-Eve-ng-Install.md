@@ -47,5 +47,18 @@ Community  버전으로도 충분히 공부할수 있으니 걱정 안하셔도 
 
 x86서버에 바로 설치도 가능하지만 OVA로 설치하는것이 편하기때문에 OVA로 다운 받습니다.
 
+다운로드가 완료되면 VMware Workstation으로 ova를 설치합니다.
+
 ![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/vmware_ova.png)
 
+다운 받은 OVA file을 실행하시면 아래와 같이 import화면이 나옵니다.
+
+Import 후 가디리시고 VM 전원을 켜시면 됩니다.
+
+켜시기전에 VT-X부분에 체크가 되었는지 확인을 해야합니다.
+
+혹시 체크가 안되어 있으면 NVF가 동작을 안합니다.
+
+Network 부분도 NAT로 변경하고 VM을 켜겠습니다.
+
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/5.png)
