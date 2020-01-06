@@ -27,4 +27,4 @@ Cisco를 공부하시는 분들은 Dynamips Image를 그대로 사용할수 있�
 
 저는 Juniper의 NFV Image로 진행을 하려고 합니다
 
-![Eve-ng Community](/files/2020-01-06-Eve-ng-Add Images/1.png)
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Add_Images/1.png)
