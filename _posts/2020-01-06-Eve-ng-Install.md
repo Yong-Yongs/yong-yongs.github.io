@@ -47,5 +47,5 @@ Community  버전으로도 충분히 공부할수 있으니 걱정 안하셔도 
 
 x86서버에 바로 설치도 가능하지만 OVA로 설치하는것이 편하기때문에 OVA로 다운 받습니다.
 
-![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/vmware ova.png)
+![Eve-ng Community](/files/2020-01-06-Eve-ng-Install/vmware_ova.png)
 
