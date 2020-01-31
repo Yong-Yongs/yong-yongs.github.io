@@ -57,7 +57,11 @@ Juniper 스위치의 경우  default vlan이 기본적으로 설정 되어 있�
 그럼 Interface에 할당해 보겠습니다.
 
 
+
+
 ![Juniper – vlan 설정](/files/2018-08-17-vlan-설정/3.png)
+
+
 
 
 보시는것처럼 Interface 부분에 할당된 Interface가 보입니다.
@@ -67,7 +71,11 @@ Juniper 스위치의 경우  default vlan이 기본적으로 설정 되어 있�
 *체크가 안된 xe-0/0/10는 현재 vlan이 할당은 되어 있지만 Down이라고 보시면 됩니다.
 
 
+
+
 ![Juniper – vlan 설정](/files/2018-08-17-vlan-설정/4.png)
+
+
 
 
 보이시죠??? ^^
@@ -96,7 +104,11 @@ set inerfaces [Interface] unit 0 family ethernet-switching interface-mode [Inter
 set inerfaces [Interface] unit 0 family ethernet-switching vlan members [vlan-id]
 ```
 
+
+
 ![Juniper – vlan 설정](/files/2018-08-17-vlan-설정/5.png)
+
+
 
 
 이번에는 Trunk 설정입니다.
