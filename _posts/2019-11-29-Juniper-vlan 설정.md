@@ -33,7 +33,7 @@ set vlans v200 vlan-id 200
 
 그럼 장비에서 설정한 다음 Config를 확인해 보겠습니다.
 
-![Juniper – vlan 설정](/files/2018-08-17-vlan-설정/1.png)
+![Juniper – vlan 설정](/files/2018-08-17-vlan-설정/1.png)
 
 
 보시는 것처럼 v100, v200이 설정 되었습니다.
