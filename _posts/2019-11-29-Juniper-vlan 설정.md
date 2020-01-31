@@ -32,3 +32,16 @@ set vlans v200 vlan-id 200
 간단하네요!!
 
 그럼 장비에서 설정한 다음 Config를 확인해 보겠습니다.
+
+![Juniper – vlan 설정](/files/2018-08-17-vlan_설정/1.png)
+
+
+보시는 것처럼 v100, v200이 설정 되었습니다.
+
+그런데 vlan에 default vlan이 있네요???
+
+Juniper 스위치의 경우  default vlan이 기본적으로 설정 되어 있습니다. ^^
+
+이번에는 Vlan이 어찌 할당되어 있는지 확인해 보겠습니다.
+
+![Juniper – vlan 설정](/files/2018-08-17-vlan_설정/2.png)
